@@ -13,6 +13,7 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 * [User Experience](#user-experience-ux)
     * [Intended Audience](#intended-audience)
     * [User Stories](#user-stories)
+
 * [Design](#design)
     * [Wireframes](#wireframes)
     * [Colour Scheme](#colour-scheme)
@@ -81,6 +82,55 @@ The idea for this site was the result of a brainstorming session and the desire 
 
 ### Wireframes
 
+The wireframes i created for this site were from the [Balsamiq program](https://balsamiq.com/)
+
+(click the arrows to drop the pictures of the wireframes)
+
+<details>
+<summary>Home page for mobile and desktop</summary>
+<br>
+
+![Home page wireframe for mobile](assets/images/muay%20thai%20home%20mobile.png)
+![Home page wireframe for desktop](assets/images/muay%20thai%20home.png)
+
+</details>
+
+<details>
+<summary>Schedule page for mobile and desktop</summary>
+<br>
+
+![Schedule page wireframe for mobile](assets/images/muay%20thai%20schedule%20mobile%20fixed.png)
+![Schedule page wireframe for desktop](assets/images/muay%20thai%20schedule.png)
+
+</details>
+
+<details>
+<summary>Facilities page for mobile and desktop</summary>
+<br>
+
+![Facilities page wireframe for mobile](assets/images/muay%20thai%20facilities%20mobile.png)
+![Facilities page wireframe for desktop](assets/images/muay%20thai%20facilities.png)
+
+</details>
+
+<details>
+<summary>Gallery page for mobile and desktop</summary>
+<br>
+
+![Gallery page wireframe for mobile](assets/images/muay%20thai%20gallery%20mobile%20fixed.png)
+![Gallery page wireframe for desktop](assets/images/muay%20thai%20gallery.png)
+
+</details>
+
+<details>
+<summary>Contact page for mobile and desktop</summary>
+<br>
+
+![Contact page wireframe for mobile](assets/images/muay%20thai%20contact%20mobile.png)
+![Contact page wireframe for desktop](assets/images/muay%20thai%20contact.png)
+
+</details>
+
 ### Colour Scheme
 
 ### Typography
@@ -90,3 +140,5 @@ The idea for this site was the result of a brainstorming session and the desire 
 [Table of contents](#table-of-contents)
 
 [Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+
+---
