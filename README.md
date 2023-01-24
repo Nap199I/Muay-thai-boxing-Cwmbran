@@ -10,8 +10,6 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 
 ## Table of contents
 
----
-
 * [User Experience](#user-experience-ux)
     * [Intended Audience](#intended-audience)
     * [User Stories](#user-stories)
@@ -19,8 +17,6 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 ---
 
 ## User Experience (UX)
-
----
 
 This site has been designed and developed mobile first due to the bootstrap framework being a mobile first framework.
 
