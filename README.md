@@ -13,7 +13,7 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 ---
 
 * [User Experience](#user-experience-ux)
-    * [Intended Audience]()
+    * [Intended Audience](#intended-audience)
     * [User Stories]()
 
 ---
@@ -24,4 +24,15 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 
 This site has been designed and developed mobile first due to the bootstrap framework being a mobile first framework.
 
-The idea for this site was the result of a brainstorming session and the desire to work on a real world project, i used to attend the camp and always used to think that it could have done with a website for scheduling and payment methods. After getting in contact with the instructor he was very enthusiastic and supportive of the project also to bring new light to the camp. The motivation behind the site will be to have easy access to the club schedule, pricing and information on how to join. 
+The idea for this site was the result of a brainstorming session and the desire to work on a real world project, i used to attend the camp and always used to think that it could have done with a website for scheduling and payment methods. After getting in contact with the instructor he was very enthusiastic and supportive of the project also to bring new light to the camp. The motivation behind the site will be to have easy access to the club schedule, pricing and information on how to join.
+
+### Intended Audience
+
+* Current camp members
+* People that want to get fit
+* People looking to learn Muay Thai Boxing
+* People looking for a new hobby
+* Someone looking to join a club / camp 
+* Someone that wishes to fight in a controlled competition environment
+* Someone that is looking to learn self-defense
+* Finally someone that is looking to gain confidence and improve mental health.
