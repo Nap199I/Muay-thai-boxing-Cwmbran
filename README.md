@@ -27,9 +27,9 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 
 * [Technologies Used](#technologies-used)
     * [Languages Used](#languages-used)
-    * [Frameworks, Libraries & Programs Used](#frameworks-libraries-and-programs-used)
+    * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Remote & Local Development](#remote-and-local-deployment)
+* [Remote & Local Development](#remote--local-development)
     * [Remote Deployment](#remote-deployment)
     * [Local Deployment](#local-deployment)
     * [How to Fork](#how-to-fork)
