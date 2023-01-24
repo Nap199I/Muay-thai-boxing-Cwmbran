@@ -29,6 +29,12 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
     * [Languages Used](#languages-used)
     * [Frameworks, Libraries & Programs Used](#frameworks-libraries-and-programs-used)
 
+* [Remote & Local Development](#remote-and-local-deployment)
+    * [Remote Deployment](#remote-deployment)
+    * [Local Deployment](#local-deployment)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
+
 ---
 
 ## User Experience (UX)
@@ -171,6 +177,22 @@ The wireframes i created for this site were from the [Balsamiq program](https://
 ### Languages Used
 
 ### Frameworks, Libraries & Programs Used
+
+[Table of contents](#table-of-contents)
+
+[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+
+---
+
+## Remote & Local Development
+
+### Remote Deployment
+
+### Local Deployment
+
+### How to Fork
+
+### How to Clone
 
 [Table of contents](#table-of-contents)
 
