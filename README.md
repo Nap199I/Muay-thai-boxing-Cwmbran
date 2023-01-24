@@ -37,6 +37,12 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 
 * [Testing](#testing)
 
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgments](#acknowledgments)
+
 ---
 
 ## User Experience (UX)
@@ -203,6 +209,22 @@ The wireframes i created for this site were from the [Balsamiq program](https://
 ---
 
 ## Testing
+
+[Table of contents](#table-of-contents)
+
+[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+
+---
+
+## Credits
+
+### Code Used
+
+### Content
+
+### Media
+
+### Acknowledgments
 
 [Table of contents](#table-of-contents)
 
