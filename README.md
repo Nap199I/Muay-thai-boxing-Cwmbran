@@ -25,6 +25,10 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
     * [Future Implementations](#future-implementations)
     * [Accessibility](#accessibility)
 
+* [Technologies Used](#technologies-used)
+    * [Languages Used](#languages-used)
+    * [Frameworks, Libraries & Programs Used](#frameworks-libraries-and-programs-used)
+
 ---
 
 ## User Experience (UX)
@@ -155,6 +159,18 @@ The wireframes i created for this site were from the [Balsamiq program](https://
 ### Future Implementations
 
 ### Accessibility
+
+[Table of contents](#table-of-contents)
+
+[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+
+---
+
+## Technologies Used
+
+### Languages Used
+
+### Frameworks, Libraries & Programs Used
 
 [Table of contents](#table-of-contents)
 
