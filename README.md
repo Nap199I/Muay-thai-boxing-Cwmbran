@@ -13,6 +13,11 @@ This website has been made for a real Muay Thai boxing camp in my local area Cwm
 * [User Experience](#user-experience-ux)
     * [Intended Audience](#intended-audience)
     * [User Stories](#user-stories)
+* [Design](#design)
+    * [Wireframes](#wireframes)
+    * [Colour Scheme](#colour-scheme)
+    * [Typography](#typography)
+    * [Imagery](#imagery)
 
 ---
 
@@ -72,3 +77,16 @@ The idea for this site was the result of a brainstorming session and the desire 
 
 ---
 
+## Design
+
+### Wireframes
+
+### Colour Scheme
+
+### Typography
+
+### Imagery
+
+[Table of contents](#table-of-contents)
+
+[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
