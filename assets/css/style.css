@@ -42,3 +42,24 @@ nav .mobile-menu {
     color: rgb(0, 0, 0);
     border-color: rgb(0, 0, 0);
 }
+
+/*-------------------- footer ------------------*/
+
+footer .footer-box {
+    padding: 5px;
+}
+
+footer .social-link-bg {
+    width: 25px;
+    height: 25px;
+    background-color:rgba(253, 253, 253, 0.384);
+}
+
+footer .c-text {
+    font-size: 13px;
+    margin: 0;
+}
+
+footer .social-icon {
+    color: black;
+}
