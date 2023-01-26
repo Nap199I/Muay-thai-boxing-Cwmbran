@@ -156,7 +156,45 @@ The wireframes i created for this site were from the [Balsamiq program](https://
 
 ### Colour Scheme
 
+---
+
 ### Typography
+
+I selected the fonts below from [google fonts](https://fonts.google.com/), the reason for my selection was that they all had a clean professional look to them and that is what we wish for the site.
+
+(Click the arrow to drop the font information.)
+
+<details>
+<summary>Libre Baskerville</summary>
+<br>
+
+This is the Libre Baskerville font, picked from google fonts for the main headings and titles of the site for a clean professional look as told above. I imported Regular 400 and Bold 700 incase the different sizes were needed.
+
+![Libre Baskerville font, picked from google fonts for the main headings and title](assets/images/Libre%20Baskerville%20font%20main%20headings%20and%20titles.png)
+
+</details>
+
+<details>
+<summary>Roboto</summary>
+<br>
+
+This is the Roboto font, picked from google fonts for the Sub-headings of the site, again for a clean professional look as told above. I imported Thin 100, Thin 100 Italic, Light 300, Light 300 Italic, Regular 400, Regular 400 Italic, Medium 500, Medium 500 Italic, Bold 700, Bold 700 Italic, Black 900 and  Black 900 Italic incase the different sizes were needed.
+
+![Roboto font, picked from google fonts for the sub-headings](assets/images/Roboto%20font.png)
+
+</details>
+
+<details>
+<summary>Montserrat</summary>
+<br>
+
+This is the Montserrat font, picked from google fonts for any regular text on the site, again for a clean professional look which i am sure you are getting tired of reading now and as told above. I imported Thin 100, Thin 100 Italic, ExtraLight 200, ExtraLight 200 Italic, Light 300, Light 300 Italic, Regular 400, Regular 400 Italic, Medium 500, Medium 500 Italic, SemiBold 600, SemiBold 600 Italic, Bold 700, Bold 700 Italic, ExtraBold 800, ExtraBold 800 Italic, Black 900 and Black 900 Italic incase the different sizes were needed.
+
+![Montserrat font, picked from google fonts for any regular text on the site](assets/images/Roboto%20font.png)
+
+</details>
+
+---
 
 ### Imagery
 
