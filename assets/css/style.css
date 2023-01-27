@@ -29,18 +29,59 @@ nav a img {
     width: 120px;
 }
 
-nav .nav-title {
+.nav-title {
     font-size: 32px;
 }
 
 nav .mobile-menu {
-    width: 425px;
-    right: -114px;
+    width: 320px;
+    left: 0;
+    top:8px;
+}
+
+.mobile-menu-link{
+    color: red;
+}
+
+.break-menu {
+    font-size: 0;
 }
 
 .navbar-light .navbar-toggler {
     color: rgb(0, 0, 0);
     border-color: rgb(0, 0, 0);
+}
+
+/*-------------------- navbar media queries ------------------*/
+
+@media only screen and (min-width: 375px) {
+    nav .mobile-menu {
+        width: 375px;
+        left: 0;
+        top:8px;
+    }
+
+    .break-menu {
+        font-size: 0;
+    }
+}
+
+@media only screen and (min-width: 425px) {
+    nav .mobile-menu {
+        width: 425px;
+        left: 0;
+        top:8px;
+    }
+
+    .break-menu {
+        font-size: 0;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+    .break-menu{
+        font-size: 12px;
+    }
 }
 
 /*-------------------- footer ------------------*/
@@ -56,7 +97,7 @@ footer .social-link-bg {
 }
 
 footer .c-text {
-    font-size: 13px;
+    font-size: 12px;
     margin: 0;
 }
 
