@@ -18,13 +18,13 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 /*-------------------- navbar ------------------*/
 
-nav {
+.nav-div {
     margin: 0;
     padding: 5px;
     width: 100%;
 }
 
-nav a img {
+.nav-div a img {
     height: 120px;
     width: 120px;
     margin: 0;
@@ -39,7 +39,7 @@ nav a img {
     margin: 0;
 }
 
-nav .mobile-menu {
+.nav-div .mobile-menu {
     width: 320px;
     left: 0;
     top:8px;
@@ -62,7 +62,7 @@ nav .mobile-menu {
 /*-------------------- navbar media queries ------------------*/
 
 @media only screen and (min-width: 375px) {
-    nav .mobile-menu {
+    .nav-div .mobile-menu {
         width: 375px;
         left: 0;
         top:8px;
@@ -74,7 +74,7 @@ nav .mobile-menu {
 }
 
 @media only screen and (min-width: 425px) {
-    nav .mobile-menu {
+    .nav-div .mobile-menu {
         width: 425px;
         left: 0;
         top:8px;
