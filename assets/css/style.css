@@ -121,6 +121,31 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     }
 }
 
+/*-------------------- main content ------------------*/
+
+section {
+    background-color:black;
+}
+
+.hero-image {
+    height: 75vh;
+    width: 100vw;
+    background-image: url(../images/cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.home-title-box {
+    padding-top: 20px;
+}
+
+.home-title {
+    color: black;
+    font-size: 8vh;
+    margin: 0;
+}
+
 /*-------------------- footer ------------------*/
 
 footer .footer-box {
