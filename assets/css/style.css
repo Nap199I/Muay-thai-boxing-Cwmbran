@@ -33,6 +33,12 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 .nav-title {
     font-size: 32px;
     margin: 0;
+    color: black;
+}
+
+.large-title {
+    font-size: 0;
+    color: black;
 }
 
 .navbar-brand {
@@ -88,6 +94,30 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 @media only screen and (min-width: 576px) {
     .break-menu{
         font-size: 12px;
+    }
+
+    .mobile-menu-link{
+        color: black;
+    }
+
+    .mobile-menu-link:hover{
+        color: red;
+        text-decoration: none;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .nav-title {
+        font-size: 0;
+    }
+
+    .large-title {
+        font-size: 30px;
+        margin: 0 10px;
+    }
+
+    .break-menu {
+        font-size: 19px;
     }
 }
 
