@@ -133,6 +133,10 @@ footer .social-link-bg {
     background-color:rgba(253, 253, 253, 0.384);
 }
 
+footer .social-link-bg:hover {
+    border: 1px red solid;
+}
+
 footer .c-text {
     font-size: 12px;
     margin: 0;
@@ -140,4 +144,12 @@ footer .c-text {
 
 footer .social-icon {
     color: black;
+}
+
+footer .social-icon:hover {
+    color: red;
+}
+
+footer .social-link {
+    text-decoration: none!important;
 }
