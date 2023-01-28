@@ -30,13 +30,13 @@
                 </button>
                 <div class="position-absolute mobile-menu">
                     <div class="collapse" id="navbarToggleExternalContent">
-                        <div class="bg-warning d-flex flex-column p-4">
+                        <nav class="bg-warning d-flex flex-column p-4">
                             <a href="index.html" class="h4 text-center mobile-menu-link">HOME</a>
                             <a href="schedule.html" class="h4 text-center mobile-menu-link">SCHEDULE</a>
                             <a href="facilities.html" class="h4 text-center mobile-menu-link">FACILITIES</a>
                             <a href="gallery.html" class="h4 text-center mobile-menu-link">GALLERY</a>
                             <a href="contact.html" class="h4 text-center mobile-menu-link">CONTACT</a>
-                        </div>
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -45,47 +45,58 @@
                 <h1 class="nav-title">PHRAYA PICHAI</h1>
             </div>
             <!--this is the larger breakpoint navigation menu for once the mobile toggler had disappeared, again hidden by font-size in earlier breakpoints-->
-            <div class="d-flex">
+            <nav class="d-flex">
                 <a href="index.html" class="break-menu h4 text-center mobile-menu-link">HOME |&nbsp;</a>
                 <a href="schedule.html" class="break-menu h4 text-center mobile-menu-link">SCHEDULE |&nbsp;</a>
                 <a href="facilities.html" class="break-menu h4 text-center mobile-menu-link">FACILITIES |&nbsp;</a>
                 <a href="gallery.html" class="break-menu h4 text-center mobile-menu-link">GALLERY |&nbsp;</a>
                 <a href="contact.html" class="break-menu h4 text-center mobile-menu-link">CONTACT</a>
-            </div>
+            </nav>
         </div>
         <!--this is the end of the navbar-->
     </header>
     <section>
     </section>
     <footer>
+        <!--this is the beginning of the footer, i put a div around the a elements, social links and icons to group them all together-->
         <div class="d-flex flex-row bg-warning justify-content-around footer-box">
             <a href="https://www.facebook.com/Muaythaicwmbran">
+                <!--i created this div to create the white circle background for the social icons-->
                 <div class="social-link-bg d-flex justify-content-center align-items-center rounded-circle">
+                    <!--all of the social icons have been taken from font awesome-->
                     <i class="social-icon fa-brands fa-facebook-f"></i>
                 </div>
             </a>
             <a href="https://twitter.com/">
+                <!--i created this div to create the white circle background for the social icons-->
                 <div class="social-link-bg d-flex justify-content-center align-items-center rounded-circle">
                     <i class="social-icon fa-brands fa-twitter"></i>
                 </div>
             </a>
             <a href="https://www.instagram.com/">
+                <!--i created this div to create the white circle background for the social icons-->
                 <div class="social-link-bg d-flex justify-content-center align-items-center rounded-circle">
                     <i class="social-icon fa-brands fa-instagram"></i>
                 </div>
             </a>
             <a href="https://www.snapchat.com/">
+                <!--i created this div to create the white circle background for the social icons-->
                 <div class="social-link-bg d-flex justify-content-center align-items-center rounded-circle">
                     <i class="social-icon fa-brands fa-snapchat"></i>
                 </div>
             </a>
         </div>
+        <!--this new div was to create the copyright section at the bottom of the footer-->
         <div class="d-flex flex-row bg-warning footer-box justify-content-center">
+            <!--the copyright icon was taken from font awesome-->
             <i class="align-self-center fa-regular fa-copyright"></i>
+            <!--this is the muted text that will show next to the copyright sign at the bottom of the footer-->
             <p class="text text-muted c-text">PHYRA PICHAI MUAY THAI BOXING CWMBRAN</p>
         </div>
+        <!--end of the footer-->
     </footer>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<!--these are the imported scripts from boostrap for popper and jquery to make the mobile toggler work-->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
