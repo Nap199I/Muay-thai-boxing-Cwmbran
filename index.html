@@ -11,7 +11,9 @@
 </head>
 <body>
     <header>
+        <!--i have encased the entire navbar in a div and used bootstrap classes to help with the css and positioning-->
         <div class="nav-div d-flex flex-md-column navbar-expand-sm navbar navbar-light bg-warning flex-fill justify-content-around">
+            <!--i surrounded the logo and the h1's either side in a div so i could split the phraya pichai title either side of the logo at a larger breakpoint, i was able to hide this in earlier breakpoints by setting its class selector attribute font-size to zero-->
             <div class="d-flex flex-lg-row">
                 <h1 class="d-flex align-items-center large-title">PHRAYA</h1>
                 <div class="flex-row position-relative">
@@ -21,6 +23,7 @@
                 </div>
                 <h1 class="d-flex align-items-center large-title">PICHAI</h1>
             </div>
+            <!--this is the mobile toggler button code that only shows for mobile breakpoints, mostly taken from the bootstrap documentation but modified to suit the styles and links that i needed for the site-->
             <div class="mobile-menu-toggler d-flex flex-row">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -37,9 +40,11 @@
                     </div>
                 </div>
             </div>
+            <!--this is the original title that was developed for mobile first, i have hidden this in the larger breakpoints by setting its breakpoint font-size to zero via media queries-->
             <div class="d-flex flex-fill align-items-center justify-content-center">
                 <h1 class="nav-title">PHRAYA PICHAI</h1>
             </div>
+            <!--this is the larger breakpoint navigation menu for once the mobile toggler had disappeared, again hidden by font-size in earlier breakpoints-->
             <div class="d-flex">
                 <a href="index.html" class="break-menu h4 text-center mobile-menu-link">HOME |&nbsp;</a>
                 <a href="schedule.html" class="break-menu h4 text-center mobile-menu-link">SCHEDULE |&nbsp;</a>
@@ -48,6 +53,7 @@
                 <a href="contact.html" class="break-menu h4 text-center mobile-menu-link">CONTACT</a>
             </div>
         </div>
+        <!--this is the end of the navbar-->
     </header>
     <section>
     </section>
