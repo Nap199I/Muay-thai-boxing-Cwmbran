@@ -27,10 +27,16 @@ nav {
 nav a img {
     height: 120px;
     width: 120px;
+    margin: 0;
 }
 
 .nav-title {
     font-size: 32px;
+    margin: 0;
+}
+
+.navbar-brand {
+    margin: 0;
 }
 
 nav .mobile-menu {
@@ -45,6 +51,7 @@ nav .mobile-menu {
 
 .break-menu {
     font-size: 0;
+    margin: 0;
 }
 
 .navbar-light .navbar-toggler {
