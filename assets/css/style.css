@@ -171,12 +171,22 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 .schedule-title {
     color: #ffc107;
+    font-size: 10vw;
 }
 
 .schedule-card {
     width: 100%;
     background-color: black;
     color: #ffc107;
+}
+
+.chevron-icon {
+    color: #ffc107;
+    padding: 5px;
+}
+
+.chevron-icon:hover {
+    color: red;
 }
 
 /*-------------------- footer ------------------*/
