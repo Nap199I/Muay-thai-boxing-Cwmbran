@@ -68,6 +68,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 /*-------------------- navbar media queries ------------------*/
 
 @media only screen and (min-width: 375px) {
+
     .nav-div .mobile-menu {
         width: 375px;
         left: 0;
@@ -80,6 +81,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 @media only screen and (min-width: 425px) {
+
     .nav-div .mobile-menu {
         width: 425px;
         left: 0;
@@ -92,6 +94,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 @media only screen and (min-width: 576px) {
+
     .break-menu{
         font-size: 12px;
     }
@@ -115,6 +118,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 @media only screen and (min-width: 992px) {
+
     .nav-title {
         font-size: 0;
     }
@@ -129,11 +133,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     }
 }
 
-/*-------------------- main content ------------------*/
-
-section {
-    background-color:black;
-}
+/*-------------------- main content - home page ------------------*/
 
 .hero-image {
     height: 75vh;
@@ -141,7 +141,7 @@ section {
     background-image: url(../images/cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center bottom;
 }
 
 .home-title-box {
