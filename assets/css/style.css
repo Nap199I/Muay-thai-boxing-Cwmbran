@@ -49,6 +49,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     width: 320px;
     left: 0;
     top:8px;
+    z-index: 1;
 }
 
 .mobile-menu-link{
