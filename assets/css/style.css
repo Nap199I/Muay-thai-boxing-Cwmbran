@@ -156,6 +156,10 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 /*-------------------- main content - schedule page ------------------*/
 
+.schedule-content {
+    background-color: black;
+}
+
 .alert {
     width: 100%;
     text-align: center;
@@ -163,6 +167,10 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 .alert-text {
     margin-top: 1rem;
+}
+
+.schedule-title {
+    color: #ffc107;
 }
 
 .schedule-card {
