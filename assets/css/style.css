@@ -180,6 +180,10 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: #ffc107;
 }
 
+.card-text {
+    font-size: 8vw;
+}
+
 .chevron-icon {
     color: #ffc107;
     padding: 5px;
