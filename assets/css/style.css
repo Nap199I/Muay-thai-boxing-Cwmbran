@@ -187,6 +187,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-color: black;
     color: #ffc107;
     padding: 10px;
+    border: 1px solid red;
 }
 
 .card-text {
