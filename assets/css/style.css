@@ -157,17 +157,22 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 /*-------------------- main content - schedule page ------------------*/
 
-.schedule-content {
+section {
     background-color: black;
 }
 
 .alert {
     width: 100%;
     text-align: center;
+    border-radius: 0;
 }
 
 .alert-text {
     margin-top: 1rem;
+}
+
+.schedule-title-box {
+    background-color: black;
 }
 
 .schedule-title {
@@ -179,6 +184,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     width: 100%;
     background-color: black;
     color: #ffc107;
+    padding: 10px;
 }
 
 .card-text {
