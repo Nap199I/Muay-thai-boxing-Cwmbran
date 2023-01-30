@@ -260,6 +260,10 @@ footer .c-text {
     margin: 0 0 0 5px;
 }
 
+.text-muted {
+    color: black!important;
+}
+
 footer .social-icon {
     color: black;
 }
