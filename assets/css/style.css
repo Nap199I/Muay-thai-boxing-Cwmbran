@@ -223,6 +223,22 @@ section {
     }
 }
 
+@media only screen and (min-width: 1440px) {
+
+    .schedule-card {
+        margin: 40px;
+    }
+
+}
+
+@media only screen and (min-width: 1600px) {
+
+    .schedule-card {
+        margin: 40px 6%;
+    }
+
+}
+
 /*-------------------- footer ------------------*/
 
 footer .footer-box {
