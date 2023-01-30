@@ -286,13 +286,32 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 @media only screen and (min-width: 768px) {
 
-    .wrapper {
-        height: 443.59px;
-        margin-bottom: 0;
+    .facilities-background {
+        padding: 40px;
+    }
+
+    .facilities-background .wrapper .content-title {
+        width: 100%;
+        padding: 20px;
     }
     
 }
 
+@media only screen and (min-width: 1024px) {
+
+    .facilities-background .wrapper {
+        width: 70%;
+    }
+    
+}
+
+@media only screen and (min-width: 1440px) {
+
+    .facilities-background .wrapper {
+        width: 55%;
+    }
+    
+}
 
 /*-------------------- footer ------------------*/
 
