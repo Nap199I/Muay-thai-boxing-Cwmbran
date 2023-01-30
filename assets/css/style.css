@@ -204,6 +204,25 @@ section {
     color: red;
 }
 
+/*-------------------- schedule page media queries ------------------*/
+
+@media only screen and (min-width: 768px) {
+
+    .schedule-title {
+        font-size: 3rem;
+    }
+
+    .schedule-card {
+        width: 20%;
+        height: 45%;
+        margin: 20px;
+    }
+
+    .card-text {
+        font-size: 1.5rem;
+    }
+}
+
 /*-------------------- footer ------------------*/
 
 footer .footer-box {
