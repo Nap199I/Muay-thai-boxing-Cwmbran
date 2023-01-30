@@ -157,7 +157,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 /*-------------------- main content - schedule page ------------------*/
 
-section {
+.content-body {
     background-color: black;
 }
 
@@ -208,8 +208,25 @@ section {
 
 @media only screen and (min-width: 768px) {
 
+    .content-body {
+        height: auto;
+        width: 100vw;
+        background-image: url(../images/class\ 1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center bottom;
+    }
+
+    .schedule-title-box {
+        background-color: transparent;
+    }
+
     .schedule-title {
         font-size: 3rem;
+        background-color: black;
+        border-radius: 500px;
+        width: 370px;
+        text-align: center;
     }
 
     .schedule-card {
