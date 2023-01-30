@@ -169,15 +169,11 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 .alert-text {
     margin-top: 1rem;
+    color: black;
 }
 
 .schedule-title-box {
     background-color: black;
-}
-
-.schedule-title {
-    color: #ffc107;
-    font-size: 10vw;
 }
 
 .schedule-card {
@@ -221,7 +217,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
         background-color: transparent;
     }
 
-    .schedule-title {
+    .content-title {
         font-size: 3rem;
         background-color: black;
         border-radius: 500px;
@@ -254,6 +250,29 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
         margin: 40px 6%;
     }
 
+}
+
+/*-------------------- main content - facilities page ------------------*/
+
+.facilities-background {
+    background-color: black;
+    padding: 10px;
+}
+
+.wrapper {
+    border: 1px solid red;
+    background-color: black;
+    width: 90%;
+    height: auto;
+}
+
+.spacer {
+    margin-bottom: 20px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
 }
 
 /*-------------------- footer ------------------*/
