@@ -324,6 +324,10 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 /*-------------------- main content - gallery page ------------------*/
 
+.gallery .content-title {
+    margin-top: 10px;
+}
+
 .gallery-img-1 {
     background-image: url(../images/benefits\ of\ Muay\ Thai.jpg);
     height: 37vh;
