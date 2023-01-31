@@ -4,6 +4,10 @@
 
 /*-------------------- generalised styles ------------------*/
 
+html {
+    scroll-behavior: smooth;
+}
+
 h1, .h1 {
     font-family: "libre baskerville", sans-serif;
 }
