@@ -17,7 +17,7 @@
     <body>
         <header>
             <!--i have encased the entire navbar in a div and used bootstrap classes to help with the css and positioning-->
-            <div class="nav-div d-flex flex-md-column navbar-expand-sm navbar navbar-light bg-warning flex-fill justify-content-around">
+            <div id="top" class="nav-div d-flex flex-md-column navbar-expand-sm navbar navbar-light bg-warning flex-fill justify-content-around">
                 <!--i surrounded the logo and the h1's either side in a div so i could split the phraya pichai title either side of the logo at a larger breakpoint, i was able to hide this in earlier breakpoints by setting its class selector attribute font-size to zero-->
                 <div class="d-flex flex-lg-row">
                     <h1 class="d-flex align-items-center large-title">PHRAYA</h1>
@@ -123,7 +123,7 @@
             </div>
             <!--this is a chevron icon taken from font awesome with a link back to the top of the page-->
             <div class="d-flex icon-box align-items-center justify-content-center">
-                <a href="schedule.html" aria-label="back to the top">
+                <a href="#top" aria-label="back to the top">
                     <i class="chevron-icon fa-solid fa-circle-chevron-up fa-lg"></i>
                 </a>
             </div>
