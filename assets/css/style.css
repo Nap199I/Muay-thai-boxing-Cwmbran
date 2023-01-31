@@ -333,6 +333,15 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-color: black;
 }
 
+.gallery-img-2 {
+    background-image: url(../images/knees.jpg);
+    height: 37vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+    background-color: black;
+}
+
 /*-------------------- footer ------------------*/
 
 footer .footer-box {
