@@ -333,7 +333,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     height: 37vh;
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center bottom;
+    background-position: center center;
     background-color: black;
     margin: 10px 0;
 }
@@ -343,7 +343,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     height: 37vh;
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center bottom;
+    background-position: center center;
     background-color: black;
     margin: 10px 0;
 }
@@ -353,13 +353,32 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     height: 37vh;
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center bottom;
+    background-position: center center;
     background-color: black;
     margin: 10px 0;
 }
 
 .img-des {
     margin: 0 10px;
+}
+
+/*-------------------- gallery page media queries ------------------*/
+
+@media only screen and (min-width: 768px) {
+
+    .gallery-img {
+        padding: 0;
+        margin: 0;
+    }
+
+    .gallery-text {
+        padding: 0;
+    }
+
+    .gallery .row {
+        margin: 0 15px;
+    }
+    
 }
 
 /*-------------------- footer ------------------*/
