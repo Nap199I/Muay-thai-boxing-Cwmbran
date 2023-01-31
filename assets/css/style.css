@@ -313,6 +313,17 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     
 }
 
+/*-------------------- main content - gallery page ------------------*/
+
+.gallery-img-1 {
+    background-image: url(../images/benefits\ of\ Muay\ Thai.jpg);
+    height: 37vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center bottom;
+    background-color: black;
+}
+
 /*-------------------- footer ------------------*/
 
 footer .footer-box {
