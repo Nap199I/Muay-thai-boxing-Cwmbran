@@ -302,6 +302,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     .facilities-background .wrapper .content-title {
         width: 100%;
         padding: 20px;
+        font-size: 5vw;
     }
     
 }
