@@ -214,7 +214,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
     .content-body {
         height: auto;
-        width: 100vw;
+        width: 100%;
         background-image: url(../images/class\ 1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
