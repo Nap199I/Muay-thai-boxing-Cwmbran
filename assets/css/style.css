@@ -192,7 +192,8 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .schedule-card {
-    width: 100%;
+    width: 75%;
+    margin: 20px;
     background-color: black;
     color: #ffc107;
     padding: 10px;
@@ -244,7 +245,6 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     .schedule-card {
         width: 25%;
         height: 45%;
-        margin: 20px;
     }
 
     .card-text {
