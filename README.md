@@ -1,271 +1,337 @@
-# Phraya Pichai Muay Thai Boxing Cwmbran
+# MUAY THAI BOXING CWMBRAN
 
-screenshot place holder for the site picture after it has been ran through the am i responsive site.
+In this section, you will include a few paragraphs providing an overview of your project.
+Essentially, this part is your "sales pitch".
 
-live project place holder
+At this stage, you should have a name for your project so use it!
+Don't introduce the project as a "portfolio project" for the diploma.
 
-This website has been made for a real Muay Thai boxing camp in my local area Cwmbran, I used to be a part of this camp and have known the instructor for a good number of years, I thought a website would benefit the camp so i approached the instructor who agreed that they would benefit.
+In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
 
----
+Consider adding a mockup image using the "Am I Responsive" website.
+Here's your deployed site as an example:
+https://ui.dev/amiresponsive?url=https://nap199i.github.io/Muay-thai-boxing-Cwmbran
 
-## Table of contents
+Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
+(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
+Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
+To add the image into your README, use this format:
+(assuming you have a new folder called `documentation` with an image called "mockup.png")
 
-* [User Experience](#user-experience-ux)
-    * [Intended Audience](#intended-audience)
-    * [User Stories](#user-stories)
+![screenshot](documentation/mockup.png)
 
-* [Design](#design)
-    * [Wireframes](#wireframes)
-    * [Colour Scheme](#colour-scheme)
-    * [Typography](#typography)
-    * [Imagery](#imagery)
+Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
+Find out more about using Markdown elements here:
+https://pandao.github.io/editor.md/en.html
 
-* [Features](#features)
-    * [Features on Each Page](#features-on-each-page)
-    * [Future Implementations](#future-implementations)
-    * [Accessibility](#accessibility)
+## UX
 
-* [Technologies Used](#technologies-used)
-    * [Languages Used](#languages-used)
-    * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
-
-* [Remote & Local Development](#remote--local-development)
-    * [Remote Deployment](#remote-deployment)
-    * [Local Deployment](#local-deployment)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
-
-* [Testing](#testing)
-
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Content](#content)
-  * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
-
----
-
-## User Experience (UX)
-
-This site has been designed and developed mobile first due to the bootstrap framework being a mobile first framework.
-
-The idea for this site was the result of a brainstorming session and the desire to work on a real world project, i used to attend the camp and always used to think that it could have done with a website for scheduling and payment methods. After getting in contact with the instructor he was very enthusiastic and supportive of the project also to bring new light to the camp. The motivation behind the site will be to have easy access to the club schedule, pricing and information on how to join.
-
-### Intended Audience
-
-* Current camp members
-* People that want to get fit
-* People looking to learn Muay Thai Boxing
-* People looking for a new hobby
-* Someone looking to join a club / camp 
-* Someone that wishes to fight in a controlled competition environment
-* Someone that is looking to learn self-defense
-* Finally someone that is looking to gain confidence and improve mental health.
-
-### User Stories
-
-* Client goals
-    * To give the club more exposure 
-    * To let people know more about thai boxing in general
-    * To give people the information they need to join
-    * To let people know about the history of the camp
-    * Possibly kit purchase at a later release
-    * Membership payments at a later release
-    * Facilities list
-
-* First time visitor goals
-    * To find out information about and benefits of thai boxing
-    * To find out how to join the camp
-    * To find out the camps schedule
-    * To find out the camps prices and how to pay
-    * To see what facilities they would be able to use as part of the camp or at the site
-
-* Return visitor goals
-    * To introduce others to the camp I.E referrals
-    * To check the schedule
-    * To make membership payments on a later release
-    * To purchase kit on a later release
-    * To check what facilities they would be able to use as part of the camp or at the site
-    * To look at or show off the gallery
-
-* Frequent visitor goals
-    * To check for any updates to the schedule
-    * To introduce others to the camp I.E referrals
-    * To make membership payments on a later release
-    * To purchase kit on a later release
-    * To look at or show off the gallery
-
-[Table of contents](#table-of-contents)
-
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
-
----
-
-## Design
-
-### Wireframes
-
-The wireframes i created for this site were from the [Balsamiq program](https://balsamiq.com/) (Warning, this link will take you away from the page)
-
-(click the arrows to drop the pictures of the wireframes)
-
-<details>
-<summary>Home page for mobile and desktop</summary>
-<br>
-
-![Home page wireframe for mobile](assets/images/muay%20thai%20home%20mobile.png)
-![Home page wireframe for desktop](assets/images/muay%20thai%20home.png)
-
-</details>
-
-<details>
-<summary>Schedule page for mobile and desktop</summary>
-<br>
-
-![Schedule page wireframe for mobile](assets/images/muay%20thai%20schedule%20mobile%20fixed.png)
-![Schedule page wireframe for desktop](assets/images/muay%20thai%20schedule.png)
-
-</details>
-
-<details>
-<summary>Facilities page for mobile and desktop</summary>
-<br>
-
-![Facilities page wireframe for mobile](assets/images/muay%20thai%20facilities%20mobile.png)
-![Facilities page wireframe for desktop](assets/images/muay%20thai%20facilities.png)
-
-</details>
-
-<details>
-<summary>Gallery page for mobile and desktop</summary>
-<br>
-
-![Gallery page wireframe for mobile](assets/images/muay%20thai%20gallery%20mobile%20fixed.png)
-![Gallery page wireframe for desktop](assets/images/muay%20thai%20gallery.png)
-
-</details>
-
-<details>
-<summary>Contact page for mobile and desktop</summary>
-<br>
-
-![Contact page wireframe for mobile](assets/images/muay%20thai%20contact%20mobile.png)
-![Contact page wireframe for desktop](assets/images/muay%20thai%20contact.png)
-
-</details>
+In this section, you will briefly explain your design processes.
 
 ### Colour Scheme
 
----
+Explain your colours and the colour scheme.
+
+- `#000000` used for primary text.
+- `#E84610` used for primary highlights.
+- `#4A4A4F` used for secondary text.
+- `#009FE3` used for secondary highlights.
+
+Consider adding a link and screenshot for your colour scheme using "coolors".
+https://coolors.co/generate
+
+When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
+
+Example:
+
+I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
+
+![screenshot](documentation/coolors.png)
+
+If you've used CSS `:root` variables, consider also including a code snippet here!
+
+I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
+
+```css
+:root {
+    /* P = Primary | S = Secondary */
+    --p-text: #000000;
+    --p-highlight: #E84610;
+    --s-text: #4A4A4F;
+    --s-highlight: #009FE3;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+```
 
 ### Typography
 
-I selected the fonts below from [google fonts](https://fonts.google.com/), the reason for my selection was that they all had a clean professional look to them and that is what we wish for the site.
+Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
-(Click the arrow to drop the font information.)
+Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
 
-<details>
-<summary>Libre Baskerville</summary>
-<br>
+Example:
 
-This is the Libre Baskerville font, picked from google fonts for the main headings and titles of the site for a clean professional look as told above. I imported Regular 400 and Bold 700 incase the different sizes were needed.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
 
-![Libre Baskerville font, picked from google fonts for the main headings and title](assets/images/Libre%20Baskerville%20font%20main%20headings%20and%20titles.png)
+- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
 
-</details>
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
-<details>
-<summary>Roboto</summary>
-<br>
+## User Stories
 
-This is the Roboto font, picked from google fonts for the Sub-headings of the site, again for a clean professional look as told above. I imported Thin 100, Thin 100 Italic, Light 300, Light 300 Italic, Regular 400, Regular 400 Italic, Medium 500, Medium 500 Italic, Bold 700, Bold 700 Italic, Black 900 and  Black 900 Italic incase the different sizes were needed.
+In this section, list all of your user stories for the project.
 
-![Roboto font, picked from google fonts for the sub-headings](assets/images/Roboto%20font.png)
+### New Site Users
 
-</details>
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
 
-<details>
-<summary>Montserrat</summary>
-<br>
+### Returning Site Users
 
-This is the Montserrat font, picked from google fonts for any regular text on the site, again for a clean professional look which i am sure you are getting tired of reading now and as told above. I imported Thin 100, Thin 100 Italic, ExtraLight 200, ExtraLight 200 Italic, Light 300, Light 300 Italic, Regular 400, Regular 400 Italic, Medium 500, Medium 500 Italic, SemiBold 600, SemiBold 600 Italic, Bold 700, Bold 700 Italic, ExtraBold 800, ExtraBold 800 Italic, Black 900 and Black 900 Italic incase the different sizes were needed.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
 
-![Montserrat font, picked from google fonts for any regular text on the site](assets/images/Roboto%20font.png)
+### Site Admin
 
-</details>
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
 
----
+## Wireframes
 
-### Imagery
+In this section, display your wireframe screenshots using a Markdown `table`.
 
-[Table of contents](#table-of-contents)
+Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
 
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
----
+### Home Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+
+### About Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+
+### Contact Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+
+Repeat for any addition wireframe pages you have.
 
 ## Features
 
-### Features on Each Page
+In this section, you should go over the different parts of your project,
+and describe each in a sentence or so.
 
-### Future Implementations
+You will need to explain what value each of the features provides for the user,
+focusing on who this website is for, what it is that they want to achieve,
+and how your project is the best way to help them achieve these things.
 
-### Accessibility
+For some/all of your features, you may choose to reference the specific project files that implement them.
 
-[Table of contents](#table-of-contents)
+IMPORTANT: Remember to always include a screenshot of each individual feature!
 
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+### Existing Features
 
----
+- **Feature #1**
 
-## Technologies Used
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-### Languages Used
+![screenshot](documentation/feature01.png)
 
-### Frameworks, Libraries & Programs Used
+- **Feature #2**
 
-[Table of contents](#table-of-contents)
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+![screenshot](documentation/feature02.png)
 
----
+- **Feature #3**
 
-## Remote & Local Development
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
-### Remote Deployment
+![screenshot](documentation/feature03.png)
 
-### Local Deployment
+Repeat as necessary for as many features as your site contains.
 
-### How to Fork
+Hint: the more, the merrier!
 
-### How to Clone
+### Future Features
 
-[Table of contents](#table-of-contents)
+Do you have additional ideas that you'd like to include on your project in the future?
+Fantastic! List them here!
+It's always great to have plans for future improvements!
+Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
 
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+- Cool new feature #1
+    - Any additional notes about this feature.
+- Cool new feature #2
+    - Any additional notes about this feature.
+- Cool new feature #3
+    - Any additional notes about this feature.
 
----
+## Tools & Technologies Used
+
+In this section, you should explain the various tools and technologies used to develop the project.
+Make sure to put a link (where applicable) to the source, and explain what each was used for.
+Some examples have been provided, but this is just a sample only, your project might've used others.
+Feel free to delete any unused items below as necessary.
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and/or [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
+- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+- [JavaScript](https://www.javascript.com) used for user interaction on the site.
+- [Python](https://www.python.org) used as the back-end programming language.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+- [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) used to help generate the Markdown files.
+- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
+- [Django](https://www.djangoproject.com) used as the Python framework for the site.
+- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
+- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
+- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
+- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
+- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
+- [Cloudinary](https://cloudinary.com) used for online static file storage.
+- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
+- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
 
 ## Testing
 
-[Table of contents](#table-of-contents)
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+## Deployment
 
----
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+- In the [GitHub repository](https://github.com/Nap199I/Muay-thai-boxing-Cwmbran), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://nap199i.github.io/Muay-thai-boxing-Cwmbran)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/Nap199I/Muay-thai-boxing-Cwmbran) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://github.com/Nap199I/Muay-thai-boxing-Cwmbran.git`
+7. Press Enter to create your local clone.
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Nap199I/Muay-thai-boxing-Cwmbran)
+
+Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
+A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
+
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Nap199I/Muay-thai-boxing-Cwmbran)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+### Local VS Deployment
+
+Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
 
 ## Credits
 
-### Code Used
+In this section you need to reference where you got your content, media, and extra help from.
+It is common practice to use code from other repositories and tutorials,
+however, it is important to be very specific about these sources to avoid plagiarism.
 
 ### Content
 
+Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
+A few examples have been provided below to give you some ideas.
+
+Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
+| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
+| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
+| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
+| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
+| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
+| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
+| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
+
 ### Media
 
-### Acknowledgments
+Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
+A few examples have been provided below to give you some ideas.
 
-[Table of contents](#table-of-contents)
+If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
+Let the assessors know that you have explicit rights to use the media files within your project.
 
-[Back to top](#phraya-pichai-muay-thai-boxing-cwmbran)
+Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
+The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
+by sending yourself the following command: `!freemedia`.
 
----
+| Source | Location | Type | Notes |
+| --- | --- | --- | --- |
+| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
+| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
+| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
+| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
+| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
+| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
+| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
+| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
+| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+
+### Acknowledgements
+
+Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
+A few examples have been provided below to give you some ideas.
+
+- I would like to thank my Code Institute mentor, [John/Jane Doe](https://github.com/username) for their support throughout the development of this project.
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
+- I would like to thank my spouse/partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
