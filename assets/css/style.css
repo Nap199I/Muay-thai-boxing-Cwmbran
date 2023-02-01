@@ -302,7 +302,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     .facilities-background .wrapper .content-title {
         width: 100%;
         padding: 20px;
-        font-size: 5vw;
+        font-size: 3rem;
     }
     
 }
@@ -366,6 +366,10 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 /*-------------------- gallery page media queries ------------------*/
 
 @media only screen and (min-width: 768px) {
+
+    .gallery .content-title {
+        font-size: 3rem;
+    }
 
     .gallery-img {
         padding: 0;
