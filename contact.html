@@ -56,7 +56,42 @@
                 </nav>
             </div>
         </header>
-        <section></section>
+        <!-- start of form -->
+        <section class="contact bg-blk">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="text-center content-title">Contact Us</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <form action="https://formdump.codeinstitute.net/" method="post">
+                            <fieldset class="form-card rounded outline text">
+                                <div class="form-group">
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" class="form-control" id="name" aria-label="enter name" placeholder="Enter Name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Email address</label>
+                                    <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>
+                                    <small id="emailHelp" class="form-text text">We'll never share your email with anyone else.</small>
+                                </div>
+                                <div class="form-group">
+                                    <label for="number">Phone</label>
+                                    <input type="number" name="number" class="form-control" id="number" placeholder="Contact number">
+                                </div>
+                                <div class="form-group">
+                                    <label for="message">Message</label>
+                                    <textarea type="text" name="message" cols="4" rows="5" class="form-control" id="message" placeholder="Enter your message here" required></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </fieldset>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- start of footer -->
         <footer>
             <div class="d-flex flex-row bg-warning justify-content-around footer-box">
