@@ -112,6 +112,12 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
         font-size: 12px;
     }
 
+    .break-menu:hover{
+        color: #ffc107;
+        text-decoration: none;
+        background-color: rgb(0, 0, 0);
+    }
+
     .mobile-menu-link{
         color: black;
         font-size: 0;
