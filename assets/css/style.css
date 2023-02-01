@@ -359,6 +359,26 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     margin: 10px 0;
 }
 
+.gallery-img-4 {
+    background-image: url(../images/ring.jpg);
+    height: 37vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: black;
+    margin: 10px 0;
+}
+
+.gallery-img-5 {
+    background-image: url(../images/class-1.jpg);
+    height: 37vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-color: black;
+    margin: 10px 0;
+}
+
 .img-des {
     margin: 0 10px;
 }
