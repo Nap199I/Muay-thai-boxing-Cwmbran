@@ -71,8 +71,14 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     z-index: 1;
 }
 
+.mobile-menu a:hover{
+    color: #ffc107;
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+}
+
 .mobile-menu-link{
-    color: red;
+    color: rgb(0, 0, 0);
 }
 
 .break-menu {
@@ -109,11 +115,6 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     .mobile-menu-link{
         color: black;
         font-size: 0;
-    }
-
-    .mobile-menu-link:hover{
-        color: red;
-        text-decoration: none;
     }
 
     .nav-div {
