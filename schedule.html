@@ -15,25 +15,24 @@
         <link rel="stylesheet" href="assets/css/style.css" type="text/css">
     </head>
     <body>
+        <!-- nav bar start -->
         <header>
-            <!--i have encased the entire navbar in a div and used bootstrap classes to help with the css and positioning-->
             <div id="top" class="nav-div d-flex flex-md-column navbar-expand-sm navbar navbar-light bg-warning flex-fill justify-content-around">
-                <!--i surrounded the logo and the h1's either side in a div so i could split the phraya pichai title either side of the logo at a larger breakpoint, i was able to hide this in earlier breakpoints by setting its class selector attribute font-size to zero-->
+                <!-- i surrounded the logo and the h1's either side in a div so i could split the phraya pichai title either side of the logo at a larger breakpoint, i was able to hide this in earlier breakpoints by setting its class selector attribute font-size to zero -->
                 <div class="d-flex flex-lg-row">
                     <h1 class="d-flex align-items-center large-title">PHRAYA</h1>
                     <div class="flex-row position-relative">
                         <a href="index.html" aria-label="link to home page">
-                            <img src="assets/images/PHRAYA-PICHAI-Logo.jpg" alt="Phraya Pichai logo a man holding two swords" class="rounded-circle navbar-brand logo">
+                            <img src="assets/images/phraya-pichai-logo.jpg" alt="Phraya Pichai logo a man holding two swords" class="rounded-circle navbar-brand logo">
                         </a>
                     </div>
                     <h1 class="d-flex align-items-center large-title">PICHAI</h1>
                 </div>
-                <!--this is the mobile toggler button code that only shows for mobile breakpoints, mostly taken from the bootstrap documentation but modified to suit the styles and links that i needed for the site-->
+                <!-- this is the mobile toggler button code that only shows for mobile breakpoints, mostly taken from the bootstrap documentation but modified to suit the styles and links that i needed for the site -->
                 <div class="mobile-menu-toggler d-flex flex-row">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
-                    <!--this is the menu that will pop up after clicking on the mobile toggler button-->
                     <div class="position-absolute mobile-menu">
                         <div class="collapse" id="navbarToggleExternalContent">
                             <nav class="bg-warning d-flex flex-column p-4">
@@ -46,11 +45,10 @@
                         </div>
                     </div>
                 </div>
-                <!--this is the original title that was developed for mobile first, i have hidden this in the larger breakpoints by setting its breakpoint font-size to zero via media queries-->
+                <!-- this is the original title that was developed for mobile first, i have hidden this in the larger breakpoints by setting its breakpoint font-size to zero via media queries -->
                 <div class="d-flex flex-fill align-items-center justify-content-center">
                     <h1 class="nav-title">PHRAYA PICHAI</h1>
                 </div>
-                <!--this is the larger breakpoint navigation menu for once the mobile toggler had disappeared, again hidden by font-size in earlier breakpoints-->
                 <nav class="d-flex">
                     <a href="index.html" class="break-menu h4 text-center" aria-label="link to home page">HOME |&nbsp;</a>
                     <a href="schedule.html" class="break-menu h4 text-center" aria-label="link to schedule page">SCHEDULE |&nbsp;</a>
@@ -59,7 +57,6 @@
                     <a href="contact.html" class="break-menu h4 text-center" aria-label="link to contact page">CONTACT</a>
                 </nav>
             </div>
-            <!--this is the end of the navbar-->
         </header>
         <section class="content-body">
             <!--beginning of the main content and below is an alert box taken from bootstrap to draw attention to the first session being free-->
