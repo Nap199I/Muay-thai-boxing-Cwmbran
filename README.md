@@ -225,7 +225,7 @@ Feel free to delete any unused items below as necessary.
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+For all testing, please refer to the [TESTING.md](testing.md) file.
 
 ## Deployment
 
