@@ -1,15 +1,21 @@
 # MUAY THAI BOXING CWMBRAN
 
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
+This project idea muay thai boxing cwmbran came about as i wanted to build a real world site for my project instead of something made up, i used to be a part of this thai boxing camp and was quite close with the instructor so i reached out to him and asked him if he wanted me to build the club a website, the main reason for building the site was to have all the information, most importantly the schedule all in one place.
 
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
+Muay thai boxing cwmbran hopes that it will give users all they need to join the club and find all the information necessary, it also aims to update current members on any schedule changes and at a later date an easier way to pay and monitor memberships.  
+The intended audience for this project are as follows:
 
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+* Parents
+* People that want to fight in competitions
+* People that want to learn self defence
+* People that want to improve fitness or mental health
+* Someone looking for a hobby to pursue 
+* Members of the camp  
 
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
+This site benefits this demographic as it gives you all the information you need to join, updates on the schedule and an overview of the facilities available on-site.
+
+![am i responsive cover image](assets/images/am-i-responsive-muay-thai-2.png)  
+Here's the deployed site as an example:
 https://ui.dev/amiresponsive?url=https://nap199i.github.io/Muay-thai-boxing-Cwmbran
 
 Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
