@@ -1,8 +1,8 @@
-/*-------------------- fonts ------------------*/
+/* fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-/*-------------------- generalised styles ------------------*/
+/* generalised styles  */
 
 html {
     scroll-behavior: smooth;
@@ -35,7 +35,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-color: rgb(0, 0, 0);
 }
 
-/*-------------------- navbar ------------------*/
+/* navbar */
 
 .nav-div {
     margin: 0;
@@ -91,7 +91,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     border-color: rgb(0, 0, 0);
 }
 
-/*-------------------- navbar media queries ------------------*/
+/* navbar media queries */
 
 @media only screen and (min-width: 375px) {
 
@@ -149,7 +149,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     }
 }
 
-/*-------------------- main content - home page ------------------*/
+/* main content - home page */
 
 .hero-image {
     height: 75vh;
@@ -170,7 +170,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     margin: 0;
 }
 
-/*-------------------- main content - schedule page ------------------*/
+/* main content - schedule page */
 
 .content-body {
     background-color: black;
@@ -217,7 +217,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: red;
 }
 
-/*-------------------- schedule page media queries ------------------*/
+/* schedule page media queries */
 
 @media only screen and (min-width: 768px) {
 
@@ -268,7 +268,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 }
 
-/*-------------------- main content - facilities page ------------------*/
+/* main content - facilities page */
 
 .facilities-background {
     background-color: black;
@@ -291,7 +291,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     padding: 0;
 }
 
-/*-------------------- Facilities page media queries ------------------*/
+/* Facilities page media queries */
 
 @media only screen and (min-width: 768px) {
 
@@ -323,7 +323,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     
 }
 
-/*-------------------- main content - gallery page ------------------*/
+/* main content - gallery page */
 
 .gallery .content-title {
     margin-top: 10px;
@@ -388,7 +388,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     margin: 0 10px;
 }
 
-/*-------------------- gallery page media queries ------------------*/
+/* gallery page media queries */
 
 @media only screen and (min-width: 768px) {
 
@@ -407,7 +407,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     
 }
 
-/*-------------------- main content - contact page ------------------*/
+/* main content - contact page */
 
 .contact .content-title {
     margin-top: 10px;
@@ -436,7 +436,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     border-color: rgb(255, 0, 0);
 }
 
-/*-------------------- footer ------------------*/
+/* footer */
 
 footer .footer-box {
     padding: 10px 5px 5px 5px;
