@@ -27,12 +27,12 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .bg-blk {
-    background-color: rgb(0, 0, 0);
+    background-color: #000000;
 }
 
 .outline {
-    border: 1px solid rgb(255, 0, 0);
-    background-color: rgb(0, 0, 0);
+    border: 1px solid #ff0000;
+    background-color: #000000;
 }
 
 /* navbar */
@@ -52,12 +52,12 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 .nav-title {
     font-size: 8vw;
     margin: 0;
-    color: black;
+    color: #000000;
 }
 
 .large-title {
     font-size: 0;
-    color: black;
+    color: #000000;
 }
 
 .navbar-brand {
@@ -74,11 +74,11 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 .mobile-menu a:hover{
     color: #ffc107;
     text-decoration: none;
-    background-color: rgb(0, 0, 0);
+    background-color: #000000;
 }
 
 .mobile-menu-link{
-    color: rgb(0, 0, 0);
+    color: #000000;
 }
 
 .break-menu {
@@ -87,8 +87,8 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .navbar-light .navbar-toggler {
-    color: rgb(0, 0, 0);
-    border-color: rgb(0, 0, 0);
+    color: #000000;
+    border-color: #000000;
 }
 
 /* navbar media queries */
@@ -114,13 +114,13 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     }
 
     .break-menu:hover{
-        color: black;
+        color: #000000;
         text-decoration: none;
         text-shadow: 2px 2px #ffdd79;
     }
 
     .mobile-menu-link{
-        color: black;
+        color: #000000;
         font-size: 0;
     }
 
@@ -165,7 +165,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .home-title {
-    color: black;
+    color: #000000;
     font-size: 6vh;
     margin: 0;
 }
@@ -173,7 +173,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 /* main content - schedule page */
 
 .content-body {
-    background-color: black;
+    background-color: #000000;
 }
 
 .alert {
@@ -184,20 +184,20 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 .alert-text {
     margin-top: 1rem;
-    color: black;
+    color: #000000;
 }
 
 .schedule-title-box {
-    background-color: black;
+    background-color: #000000;
 }
 
 .schedule-card {
     width: 75%;
     margin: 20px;
-    background-color: black;
+    background-color: #000000;
     color: #ffc107;
     padding: 10px;
-    border: 1px solid red;
+    border: 1px solid #ff0000;
 }
 
 .card-text {
@@ -214,7 +214,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .chevron-icon:hover {
-    color: red;
+    color: #ff0000;
 }
 
 /* schedule page media queries */
@@ -236,7 +236,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
     .schedule-title-box .content-title {
         font-size: 3rem;
-        background-color: black;
+        background-color: #000000;
         border-radius: 500px;
         width: 370px;
         text-align: center;
@@ -271,13 +271,13 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 /* main content - facilities page */
 
 .facilities-background {
-    background-color: black;
+    background-color: #000000;
     padding: 10px;
 }
 
 .wrapper {
-    border: 1px solid red;
-    background-color: black;
+    border: 1px solid #ff0000;
+    background-color: #000000;
     width: 90%;
     height: auto;
 }
@@ -340,7 +340,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
-    background-color: black;
+    background-color: #000000;
     margin: 10px 0;
 }
 
@@ -350,7 +350,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
-    background-color: black;
+    background-color: #000000;
     margin: 10px 0;
 }
 
@@ -360,7 +360,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
-    background-color: black;
+    background-color: #000000;
     margin: 10px 0;
 }
 
@@ -370,7 +370,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
-    background-color: black;
+    background-color: #000000;
     margin: 10px 0;
 }
 
@@ -380,7 +380,7 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
-    background-color: black;
+    background-color: #000000;
     margin: 10px 0;
 }
 
@@ -425,15 +425,15 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 
 .btn-primary {
     color: #ffc107;
-    background-color: rgb(0, 0, 0);
-    border-color: rgb(255, 0, 0);
+    background-color: #000000;
+    border-color: #ff0000;
     margin: 10px;
 }
 
 .btn-primary:hover {
-    color: rgb(0, 0, 0);
+    color: #000000;
     background-color: #ffc107;
-    border-color: rgb(255, 0, 0);
+    border-color: #ff0000;
 }
 
 /* footer */
@@ -449,7 +449,7 @@ footer .social-link-bg {
 }
 
 footer .social-link-bg:hover {
-    border: 1px red solid;
+    border: 1px #ff0000 solid;
 }
 
 footer .c-text {
@@ -458,15 +458,15 @@ footer .c-text {
 }
 
 .text-muted {
-    color: black!important;
+    color: #000000!important;
 }
 
 footer .social-icon {
-    color: black;
+    color: #000000;
 }
 
 footer .social-icon:hover {
-    color: red;
+    color: #ff0000;
 }
 
 footer .social-link {
