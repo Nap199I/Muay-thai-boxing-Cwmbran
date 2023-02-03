@@ -168,22 +168,37 @@ There will be a breakdown of each pages features in order below
 
 - **Feature #1 nav bar mobile toggler**
 
-    - The mobile nav toggler button gives ease of use on a mobile, collapsing what would be an otherwise messy and squashed nav bar on a mobile interface. once toggled open you have the mobile navigation which is clear and user friendly to navigate the site, you can press the toggler button for the second time to close this menu without having to make a choice.
+    - The mobile nav toggler button gives ease of use on a mobile, collapsing what would be an otherwise messy and squashed nav bar on a mobile interface. once toggled open you have the mobile navigation which is clear and user friendly to navigate the site, you can press the toggler button for the second time to close this menu without having to make a choice, finally when you hover over an element of the nav bar it gives the user clear feedback as seen in the screenshot below.
 
-![screenshot](documentation/mobile-toggle-menu-closed.png)
+nav bar menu closed:
+
+![screenshot](documentation/mobile-toggle-menu-closed.png)  
+
+nav bar menu open:
+
 ![screenshot](documentation/mobile-toggle-menu-open.png)
 
-- **Feature #2**
+nav bar menu with hover:
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+![screenshot](documentation/mobile-toggle-menu-hover.png)
 
-![screenshot](documentation/feature02.png)
+- **Feature #2 nav bar**
 
-- **Feature #3**
+    - The nav bar is a helpful navigation feature displayed clearly at the top of each page to give the user easy navigation controls for the site, this benefits the site because it makes all areas easily accessible, finally when you hover over an element of the nav bar it gives the user clear feedback as seen in the screenshot below.
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+nav bar without mobile toggler:
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/nav-bar.png)  
+
+nav bar hover feedback:
+
+![screenshot](documentation/nav-bar-hover.png)
+
+- **Feature #3 hero image and title on home page**
+
+    - Here we have a nice hero image displaying people practicing the art of muay thai with a clear concise title making sure the user knows where they are and what the site is about benefiting the users experience and the sites usability.
+
+![screenshot](documentation/hero-image-title.png)
 
 Repeat as necessary for as many features as your site contains.
 
