@@ -92,31 +92,27 @@ The reason i picked these fonts were for a professional and clean look to the si
 
 ## User Stories
 
-In this section, list all of your user stories for the project.
+To help with this section, when i had the meeting with my client we discussed site admin goals and different user goals which has been shown below.
 
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to find out the location, so that I can join the camp .
+- As a new site user, I would like to find out the schedule, so that I can join the camp.
+- As a new site user, I would like to contact the camp administration, so that I can ask any questions I may have.
+- As a new site user, I would like to find the price of the sessions, so that I can pay the correct amount when I join.
+- As a new site user, I would like to find information on the sessions, so that I can pick which ones to attend.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to find the schedule, so that I can make sure there has been no changes.
+- As a returning site user, I would like to look at the gallery, so that I can show people my friends and what I am a part of.
+- As a returning site user, I would like to use the contact section, so that I can inform the instructor that I wont be able to make a session.
 
 ### Site Admin
 
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to have our information displayed, so that I can update new and existing members on times, locations and prices.
+- As a site administrator, I should be able to have images on the site, so that I can so potential new recruits can see what we do or so existing members can show friends.
+- As a site administrator, I should be able to recieve and answer queries by email, so that I can assist anyone looking to join or any existing members issues.
 
 ## Wireframes
 
