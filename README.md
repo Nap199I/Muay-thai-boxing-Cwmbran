@@ -116,38 +116,42 @@ To help with this section, when i had the meeting with my client we discussed si
 
 ## Wireframes
 
-In this section, display your wireframe screenshots using a Markdown `table`.
-
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Home Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+| Mobile | ![screenshot](documentation/muay-thai-home-mobile.png) |
+| Desktop | ![screenshot](documentation/muay-thai-home.png) |
 
-### About Page Wireframes
+### Schedule Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+| Mobile | ![screenshot](documentation/muay-thai-schedule-mobile.png) |
+| Desktop | ![screenshot](documentation/muay-thai-schedule.png) |
+
+### Facilities Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/muay-thai-facilities-mobile.png) |
+| Desktop | ![screenshot](documentation/muay-thai-facilities.png) |
+
+### Gallery Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/muay-thai-gallery-mobile.png) |
+| Desktop | ![screenshot](documentation/muay-thai-gallery.png) |
 
 ### Contact Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
-
-Repeat for any addition wireframe pages you have.
+| Mobile | ![screenshot](documentation/muay-thai-contact-mobile.png) |
+| Desktop | ![screenshot](documentation/muay-thai-contact.png) |
 
 ## Features
 
