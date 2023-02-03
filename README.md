@@ -166,11 +166,12 @@ There will be a breakdown of each pages features in order below
 
 ### Existing Features
 
-- **Feature #1**
+- **Feature #1 nav bar mobile toggler**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    - The mobile nav toggler button gives ease of use on a mobile, collapsing what would be an otherwise messy and squashed nav bar on a mobile interface. once toggled open you have the mobile navigation which is clear and user friendly to navigate the site, you can press the toggler button for the second time to close this menu without having to make a choice.
 
-![screenshot](documentation/feature01.png)
+![screenshot](documentation/mobile-toggle-menu-closed.png)
+![screenshot](documentation/mobile-toggle-menu-open.png)
 
 - **Feature #2**
 
