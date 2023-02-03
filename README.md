@@ -80,17 +80,15 @@ The `:root` variables used in this project were imported by bootstrap.
 
 ### Typography
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+The reason i picked these fonts were for a professional and clean look to the site.
 
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
+- [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville?query=libre) was used for the main nav titles.
 
-Example:
+- [Roboto](https://fonts.google.com/specimen/Roboto?query=robo) was used for the primary headers and titles.
 
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary text throughout the site.
 
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer and back to top chevrons.
 
 ## User Stories
 
