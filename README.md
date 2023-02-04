@@ -200,9 +200,83 @@ nav bar hover feedback:
 
 ![screenshot](documentation/hero-image-title.png)
 
-Repeat as necessary for as many features as your site contains.
+- **Feature #4 footer icons**
 
-Hint: the more, the merrier!
+    - The footer icons are part of the footer which lets the user know that they have come to the end of the page, the icons themselfs are links to social medias for if they wish to connect in other ways with the camp, once the icons have been hovered over they give a feedback to let the user know that they are hovering and the site is registering their movements giving them feedback for a good user experience which also benefits the sites usability and credability.
+
+This is the regular footer with the social icons displayed:  
+
+![screenshot](documentation/footer-bar.png)  
+
+This is the footer with the hover effect applied so you can see the feedback the user would get when they hover, the effect is applied to the facebook icon on the left:  
+
+![screenshot](documentation/footer-bar-hover.png)
+
+- **Feature #5 alert bar**
+
+    - The alert bar pulls the users attention to the fact that the first class is free which benefits the site as it would benefit the camp because it would entice the user to use the free class to see if they like the camp, boosting numbers to the camp which in turn would boost numbers of users.
+
+![screenshot](documentation/alert-bar.png)
+
+- **Feature #6 schedule**
+
+    - The schedule cards are one of the most important features on the site right now as this will tell users when, where, what and how much the sessions are. This benefits the site as it would be one of the most used features, it would be checked by new users for initial information and checked by returning users and members for any schedule updates.
+
+![screenshot](documentation/schedule-cards.png)
+
+- **Feature #7 back to top chevron**
+
+    - The back to top chevron is displayed on the schedule and gallery pages with a smooth scroll and hover effect applied to it for a good user experience, it is only on these pages due to the fact that the other pages are not long enough to make the chevron viable.  
+
+The back to top chevron:  
+
+![screenshot](documentation/back-to-top-chevron.png)  
+
+The chevron with hover feedback:  
+
+![screenshot](documentation/back-to-top-chevron-hover.png)
+
+- **Feature #8 facilities list**
+
+    - The facilites list shows the user what is available to them as part of the camp and on-site, this benefits the user for if they wish to do something after the session or if they wanted to know what is provided by the camp, it benefits the site as it should minimise the use of the contact form to free up the instructor for more teaching than answering queries that could have been answered on the site.
+
+![screenshot](documentation/facilities-screenshot.png)
+
+- **Feature #9 gallery sections**
+
+    - The gallery section has image's with a caption next to them to explain what the user is looking at in the picture, this benefits the user so they can see the type of things they would be doing along with recognising faces if they decided to join the camp, it would benefit members of the camp as they could show friends and introduce others to the site from that talking point. The gallery benefits the site as an entertainment section creating retention for a short time.  
+
+Top of the gallery:  
+
+![screenshot](documentation/gallery-scrn-sht-one.png)  
+
+Bottom of the gallery:  
+
+![screenshot](documentation/gallery-scrn-sht-two.png)
+
+- **Feature #10 contact form**
+
+    - On the contact form we have the contact us header as a call to action, I have set the name, email and message to required so we know who is getting in contact, a way to contact them back to answer the query and the message so there is something to answer, I did not set the phone section to required as not everyone likes to give this information out. Finally I set the submit button to give feedback on hover, this all benefits the user so they dont accidentally send the query unfinished and so they know the site is registering their movements for a good user experience, it benefits the site so there is not incomplete messages sent.  
+
+The full contact form:  
+
+![screenshot](documentation/contact-form.png)  
+
+The name required showing:  
+
+![screenshot](documentation/contact-form-name-required.png)  
+
+The email required showing:  
+
+![screenshot](documentation/contact-form-email-required.png)  
+
+The message required showing:  
+
+![screenshot](documentation/contact-form-message-required.png)  
+
+The submit hover button:  
+
+![screenshot](documentation/contact-form-submit-hover.png)
 
 ### Future Features
 
