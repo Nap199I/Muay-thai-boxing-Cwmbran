@@ -280,48 +280,47 @@ The submit hover button:
 
 ### Future Features
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+For future features we do have a couple if ideas that we will list below, these havent been implemented yet for a few reasons, these being:  
+* viability
+* lack of knowledge / skill
+* keeping the site simple for release
 
-- Cool new feature #1
-    - Any additional notes about this feature.
-- Cool new feature #2
-    - Any additional notes about this feature.
-- Cool new feature #3
-    - Any additional notes about this feature.
+- feature #1 a login that will unlock other areas of the site once logged in
+    - If I can implement a login for current members and returning users this will cater to other future features I would like to implement, this was not implemented due to my lack of skill and knowledge in this area.  
+
+- feature #2 a membership payment system that will track members payment for instructor and ease of payment for user.
+    - If I can implement this it will make payments for classes and tracking who has and hasnt paid easier, we could also offer monthly memberships and more, this was not implemented due to my lack of skill and knowledge in this area.  
+
+- feature #3 an About us page
+    - This page will tell you about the history of the camp and past achievements like past champions and so on, this was not implemented due to trying to minimise the amount of pages for initial release to keep it a simple site at first.  
+
+- feature #4 shop page
+    - This page would allow the user to buy branded equipment like tops, gloves, shorts and more with the phraya pitchai logo, this was not implemented due to my lack of skill and knowledge in this area.  
+
+- feature #5 chat
+    - This feature would be a club specific page where they can chat and share things it would function similar to a social media group but on the official website, this was not implemented due to my lack of skill and knowledge in this area.  
+
+- feature #6 instructional video page or video lessons
+    - This page could be about any videos made pertaining to the camp or lessons that had been recorded for anyone that missed the session, this was not implemented due to trying to minimise the amount of pages for initial release to keep it a simple site at first.
+
+- feature #7 an admin login where the instructor or chosen admins are able to upload things and change information like the schedule
+    - This page could be about any videos made pertaining to the camp or lessons that had been recorded for anyone that missed the session, this was not implemented due to my lack of skill and knowledge in this area.  
 
 ## Tools & Technologies Used
 
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
+In this section, I have listed all tools and technologies used to develop the site below.
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and/or [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
+- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site, although i did not implement this i have put it in due to it being default in the bootstrap framework.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout this was used in conjunction with the bootstrap classes.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
-- [Python](https://www.python.org) used as the back-end programming language.
+- [JQuery](https://jquery.com/) used for user interaction on the mobile toggler nav bar again implemented through the bootstrap framework.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
-- [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) used to help generate the Markdown files.
-- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
-- [Django](https://www.djangoproject.com) used as the Python framework for the site.
-- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
-- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
-- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
-- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
-- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
-- [Cloudinary](https://cloudinary.com) used for online static file storage.
-- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
-- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
+- [Markdown Builder by Tim Nelson](https://traveltimn.github.io/markdown-builder/) used to help generate the Markdown files.
 
 ## Testing
 
@@ -388,7 +387,7 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 
 | Source | Location | Notes |
 | --- | --- | --- |
-| [Markdown Builder by Tim Nelson](https://traveltimn.github.io/readme-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Markdown Builder by Tim Nelson](https://traveltimn.github.io/markdown-builder/) | README and TESTING | tool to help generate the Markdown files |
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
 | [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
 | [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
