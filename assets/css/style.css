@@ -91,64 +91,6 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     border-color: #000000;
 }
 
-/* navbar media queries */
-
-@media only screen and (min-width: 375px) {
-
-    .break-menu {
-        font-size: 0;
-    }
-}
-
-@media only screen and (min-width: 576px) {
-
-    .nav-div .mobile-menu {
-        width: 0%;
-        font-size: 0;
-        top: 0;
-    }
-
-    .break-menu{
-        font-size: 12px;
-        margin: 10px;
-    }
-
-    .break-menu:hover{
-        color: #000000;
-        text-decoration: none;
-        text-shadow: 2px 2px #ffdd79;
-    }
-
-    .mobile-menu-link{
-        color: #000000;
-        font-size: 0;
-    }
-
-    .nav-div {
-        flex-direction: column;
-    }
-
-    .nav-title {
-        font-size: 32px;
-    }
-}
-
-@media only screen and (min-width: 992px) {
-
-    .nav-title {
-        font-size: 0;
-    }
-
-    .large-title {
-        font-size: 30px;
-        margin: 0 10px;
-    }
-
-    .break-menu {
-        font-size: 19px;
-    }
-}
-
 /* main content - home page */
 
 .hero-image {
@@ -217,57 +159,6 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: #ff0000;
 }
 
-/* schedule page media queries */
-
-@media only screen and (min-width: 768px) {
-
-    .content-body {
-        height: auto;
-        width: 100%;
-        background-image: url(../images/class-1.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center bottom;
-    }
-
-    .schedule-title-box {
-        background-color: transparent;
-    }
-
-    .schedule-title-box .content-title {
-        font-size: 3rem;
-        background-color: #000000;
-        border-radius: 500px;
-        width: 370px;
-        text-align: center;
-    }
-
-    .schedule-card {
-        width: 25%;
-        height: 45%;
-    }
-
-    .card-text {
-        font-size: 1.5rem;
-    }
-}
-
-@media only screen and (min-width: 1440px) {
-
-    .schedule-card {
-        margin: 40px;
-    }
-
-}
-
-@media only screen and (min-width: 1600px) {
-
-    .schedule-card {
-        margin: 40px 6%;
-    }
-
-}
-
 /* main content - facilities page */
 
 .facilities-background {
@@ -289,38 +180,6 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
 .list {
     list-style: none;
     padding: 0;
-}
-
-/* Facilities page media queries */
-
-@media only screen and (min-width: 768px) {
-
-    .facilities-background {
-        padding: 40px;
-    }
-
-    .facilities-background .wrapper .content-title {
-        width: 100%;
-        padding: 20px;
-        font-size: 3rem;
-    }
-    
-}
-
-@media only screen and (min-width: 1024px) {
-
-    .facilities-background .wrapper {
-        width: 70%;
-    }
-    
-}
-
-@media only screen and (min-width: 1440px) {
-
-    .facilities-background .wrapper {
-        width: 55%;
-    }
-    
 }
 
 /* main content - gallery page */
@@ -388,25 +247,6 @@ h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     margin: 0 10px;
 }
 
-/* gallery page media queries */
-
-@media only screen and (min-width: 768px) {
-
-    .contact .content-title, .gallery .content-title {
-        font-size: 3rem;
-    }
-
-    .gallery-img {
-        padding: 0;
-        margin: 0;
-    }
-
-    .gallery-text {
-        padding: 0;
-    }
-    
-}
-
 /* main content - contact page */
 
 .contact .content-title {
@@ -471,4 +311,146 @@ footer .social-icon:hover {
 
 footer .social-link {
     text-decoration: none!important;
+}
+
+/* media queries */
+
+@media only screen and (min-width: 375px) {
+
+    .break-menu {
+        font-size: 0;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+
+    .nav-div .mobile-menu {
+        width: 0%;
+        font-size: 0;
+        top: 0;
+    }
+
+    .break-menu{
+        font-size: 12px;
+        margin: 10px;
+    }
+
+    .break-menu:hover{
+        color: #000000;
+        text-decoration: none;
+        text-shadow: 2px 2px #ffdd79;
+    }
+
+    .mobile-menu-link{
+        color: #000000;
+        font-size: 0;
+    }
+
+    .nav-div {
+        flex-direction: column;
+    }
+
+    .nav-title {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    .content-body {
+        height: auto;
+        width: 100%;
+        background-image: url(../images/class-1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center bottom;
+    }
+
+    .schedule-title-box {
+        background-color: transparent;
+    }
+
+    .schedule-title-box .content-title {
+        font-size: 3rem;
+        background-color: #000000;
+        border-radius: 500px;
+        width: 370px;
+        text-align: center;
+    }
+
+    .schedule-card {
+        width: 25%;
+        height: 45%;
+    }
+
+    .card-text {
+        font-size: 1.5rem;
+    }
+
+    .facilities-background {
+        padding: 40px;
+    }
+
+    .facilities-background .wrapper .content-title {
+        width: 100%;
+        padding: 20px;
+        font-size: 3rem;
+    }
+
+    .contact .content-title, .gallery .content-title {
+        font-size: 3rem;
+    }
+
+    .gallery-img {
+        padding: 0;
+        margin: 0;
+    }
+
+    .gallery-text {
+        padding: 0;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    .nav-title {
+        font-size: 0;
+    }
+
+    .large-title {
+        font-size: 30px;
+        margin: 0 10px;
+    }
+
+    .break-menu {
+        font-size: 19px;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+
+    .facilities-background .wrapper {
+        width: 70%;
+    }
+    
+}
+
+@media only screen and (min-width: 1440px) {
+
+    .schedule-card {
+        margin: 40px;
+    }
+
+    .facilities-background .wrapper {
+        width: 55%;
+    }
+
+}
+
+@media only screen and (min-width: 1600px) {
+
+    .schedule-card {
+        margin: 40px 6%;
+    }
+
 }
