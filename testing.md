@@ -54,13 +54,11 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
 | Chrome | ![screenshot](documentation/testing/chrome-compatability-home.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
-| Edge | ![screenshot](documentation/browser-edge.png) | Works as expected |
-| Safari | ![screenshot](documentation/browser-safari.png) | Minor CSS differences |
-| Brave | ![screenshot](documentation/browser-brave.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera.png) | Minor differences |
-| Internet Explorer | ![screenshot](documentation/browser-iex.png) | Does not work as expected |
-| x | x | repeat for any other tested browsers |
+| Firefox | ![screenshot](documentation/testing/firefox-compatability-home.png) | Works as expected |
+| Edge | ![screenshot](documentation/testing/microsoft-edge-compatability-home.png) | Works as expected |
+| Samsung internet android (samsung galaxy note 20 ultra) | ![screenshot](documentation/testing/mobile-android-compatability-home.jpg) | Works as expected |
+| Brave | ![screenshot](documentation/testing/brave-compatibility-home.png) | Works as expected |
+| Opera | ![screenshot](documentation/testing/opera-compatability-home.png) | Works as expected |
 
 ## Responsiveness
 
