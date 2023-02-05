@@ -14,8 +14,8 @@ The intended audience for this project are as follows:
 
 This site benefits this demographic as it gives you all the information you need to join, updates on the schedule and an overview of the facilities available on-site.
 
-![screenshot](documentation/am-i-responsive-muay-thai-2.png)  
-Here's the am i responsive site as an example:
+![screenshot](documentation/readme/am-i-responsive-muay-thai-2.png)  
+Here's the am i responsive site for my project:
 https://ui.dev/amiresponsive?url=https://nap199i.github.io/Muay-thai-boxing-Cwmbran
 
 ## UX
@@ -41,7 +41,7 @@ Example:
 
 I used [coolors.co](https://coolors.co/ffc107-000000-ff0000-ffdd79) to generate my colour palette.
 
-![screenshot](documentation/muay-thai-color-palette.png)
+![screenshot](documentation/readme/muay-thai-color-palette.png)
 
 The `:root` variables used in this project were imported by bootstrap.
 
@@ -122,36 +122,36 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/muay-thai-home-mobile.png) |
-| Desktop | ![screenshot](documentation/muay-thai-home.png) |
+| Mobile | ![screenshot](documentation/readme/muay-thai-home-mobile.png) |
+| Desktop | ![screenshot](documentation/readme/muay-thai-home.png) |
 
 ### Schedule Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/muay-thai-schedule-mobile.png) |
-| Desktop | ![screenshot](documentation/muay-thai-schedule.png) |
+| Mobile | ![screenshot](documentation/readme/muay-thai-schedule-mobile.png) |
+| Desktop | ![screenshot](documentation/readme/muay-thai-schedule.png) |
 
 ### Facilities Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/muay-thai-facilities-mobile.png) |
-| Desktop | ![screenshot](documentation/muay-thai-facilities.png) |
+| Mobile | ![screenshot](documentation/readme/muay-thai-facilities-mobile.png) |
+| Desktop | ![screenshot](documentation/readme/muay-thai-facilities.png) |
 
 ### Gallery Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/muay-thai-gallery-mobile.png) |
-| Desktop | ![screenshot](documentation/muay-thai-gallery.png) |
+| Mobile | ![screenshot](documentation/readme/muay-thai-gallery-mobile.png) |
+| Desktop | ![screenshot](documentation/readme/muay-thai-gallery.png) |
 
 ### Contact Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/muay-thai-contact-mobile.png) |
-| Desktop | ![screenshot](documentation/muay-thai-contact.png) |
+| Mobile | ![screenshot](documentation/readme/muay-thai-contact-mobile.png) |
+| Desktop | ![screenshot](documentation/readme/muay-thai-contact.png) |
 
 ## Features
 
@@ -172,15 +172,15 @@ There will be a breakdown of each pages features in order below
 
 nav bar menu closed:
 
-![screenshot](documentation/mobile-toggle-menu-closed.png)  
+![screenshot](documentation/readme/mobile-toggle-menu-closed.png)  
 
 nav bar menu open:
 
-![screenshot](documentation/mobile-toggle-menu-open.png)
+![screenshot](documentation/readme/mobile-toggle-menu-open.png)
 
 nav bar menu with hover:
 
-![screenshot](documentation/mobile-toggle-menu-hover.png)
+![screenshot](documentation/readme/mobile-toggle-menu-hover.png)
 
 - **Feature #2 nav bar**
 
@@ -188,17 +188,17 @@ nav bar menu with hover:
 
 nav bar without mobile toggler:
 
-![screenshot](documentation/nav-bar.png)  
+![screenshot](documentation/readme/nav-bar.png)  
 
 nav bar hover feedback:
 
-![screenshot](documentation/nav-bar-hover.png)
+![screenshot](documentation/readme/nav-bar-hover.png)
 
 - **Feature #3 hero image and title on home page**
 
     - Here we have a nice hero image displaying people practicing the art of muay thai with a clear concise title making sure the user knows where they are and what the site is about benefiting the users experience and the sites usability.
 
-![screenshot](documentation/hero-image-title.png)
+![screenshot](documentation/readme/hero-image-title.png)
 
 - **Feature #4 footer icons**
 
@@ -206,23 +206,23 @@ nav bar hover feedback:
 
 This is the regular footer with the social icons displayed:  
 
-![screenshot](documentation/footer-bar.png)  
+![screenshot](documentation/readme/footer-bar.png)  
 
 This is the footer with the hover effect applied so you can see the feedback the user would get when they hover, the effect is applied to the facebook icon on the left:  
 
-![screenshot](documentation/footer-bar-hover.png)
+![screenshot](documentation/readme/footer-bar-hover.png)
 
 - **Feature #5 alert bar**
 
     - The alert bar pulls the users attention to the fact that the first class is free which benefits the site as it would benefit the camp because it would entice the user to use the free class to see if they like the camp, boosting numbers to the camp which in turn would boost numbers of users.
 
-![screenshot](documentation/alert-bar.png)
+![screenshot](documentation/readme/alert-bar.png)
 
 - **Feature #6 schedule**
 
     - The schedule cards are one of the most important features on the site right now as this will tell users when, where, what and how much the sessions are. This benefits the site as it would be one of the most used features, it would be checked by new users for initial information and checked by returning users and members for any schedule updates.
 
-![screenshot](documentation/schedule-cards.png)
+![screenshot](documentation/readme/schedule-cards.png)
 
 - **Feature #7 back to top chevron**
 
@@ -230,17 +230,17 @@ This is the footer with the hover effect applied so you can see the feedback the
 
 The back to top chevron:  
 
-![screenshot](documentation/back-to-top-chevron.png)  
+![screenshot](documentation/readme/back-to-top-chevron.png)  
 
 The chevron with hover feedback:  
 
-![screenshot](documentation/back-to-top-chevron-hover.png)
+![screenshot](documentation/readme/back-to-top-chevron-hover.png)
 
 - **Feature #8 facilities list**
 
     - The facilites list shows the user what is available to them as part of the camp and on-site, this benefits the user for if they wish to do something after the session or if they wanted to know what is provided by the camp, it benefits the site as it should minimise the use of the contact form to free up the instructor for more teaching than answering queries that could have been answered on the site.
 
-![screenshot](documentation/facilities-screenshot.png)
+![screenshot](documentation/readme/facilities-screenshot.png)
 
 - **Feature #9 gallery sections**
 
@@ -248,11 +248,11 @@ The chevron with hover feedback:
 
 Top of the gallery:  
 
-![screenshot](documentation/gallery-scrn-sht-one.png)  
+![screenshot](documentation/readme/gallery-scrn-sht-one.png)  
 
 Bottom of the gallery:  
 
-![screenshot](documentation/gallery-scrn-sht-two.png)
+![screenshot](documentation/readme/gallery-scrn-sht-two.png)
 
 - **Feature #10 contact form**
 
@@ -260,23 +260,23 @@ Bottom of the gallery:
 
 The full contact form:  
 
-![screenshot](documentation/contact-form.png)  
+![screenshot](documentation/readme/contact-form.png)  
 
 The name required showing:  
 
-![screenshot](documentation/contact-form-name-required.png)  
+![screenshot](documentation/readme/contact-form-name-required.png)  
 
 The email required showing:  
 
-![screenshot](documentation/contact-form-email-required.png)  
+![screenshot](documentation/readme/contact-form-email-required.png)  
 
 The message required showing:  
 
-![screenshot](documentation/contact-form-message-required.png)  
+![screenshot](documentation/readme/contact-form-message-required.png)  
 
 The submit hover button:  
 
-![screenshot](documentation/contact-form-submit-hover.png)
+![screenshot](documentation/readme/contact-form-submit-hover.png)
 
 ### Future Features
 
