@@ -294,7 +294,6 @@ In this section, I have listed all tools and technologies used to develop the si
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site, although i did not implement this i have put it in due to it being default in the bootstrap framework.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) and [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout this was used in conjunction with the bootstrap classes.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
 - [JQuery](https://jquery.com/) used for user interaction on the mobile toggler nav bar again implemented through the bootstrap framework.
