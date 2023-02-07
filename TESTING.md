@@ -19,8 +19,6 @@ I validated the live pages (each of them) using the deployed URL.
 This will give me a custom URL as well, which I will use on my testing documentation.
 It makes it easier to return back to a page to validate it again in the future.
 
-Sample HTML code validation documentation (tables are extremely helpful!):
-
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FNap199I.github.io%2FMuay-thai-boxing-Cwmbran%2Findex.html) | ![screenshot](documentation/testing/home-html-validation.png) | Pass: No Errors |
@@ -28,6 +26,7 @@ Sample HTML code validation documentation (tables are extremely helpful!):
 | Schedule | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FMuay-thai-boxing-Cwmbran%2Fschedule.html) | ![screenshot](documentation/testing/schedule-html-validation.png) | Pass: No Errors |
 | Facilities | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FMuay-thai-boxing-Cwmbran%2Ffacilities.html) | ![screenshot](documentation/testing/facilities-html-validation.png) | Pass: No Errors |
 | Gallery | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FMuay-thai-boxing-Cwmbran%2Fgallery.html) | ![screenshot](documentation/testing/gallery-html-validation.png) | Pass: No Errors |
+| confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fnap199i.github.io%2FMuay-thai-boxing-Cwmbran%2Fconfirmation.html) | ![screenshot](documentation/testing/confirmation-html-validation.png) | Pass: No Errors |
 
 ### CSS
 
