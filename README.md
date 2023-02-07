@@ -35,8 +35,6 @@ I used [coolors.co](https://coolors.co/ffc107-000000-ff0000-ffdd79) to generate 
 
 ![screenshot](documentation/readme/muay-thai-color-palette.png)
 
-The `:root` variables used in this project were imported by bootstrap.
-
 ### Typography
 
 The reason i picked these fonts were for a professional and clean look to the site.
