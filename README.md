@@ -53,7 +53,7 @@ To help with this section, when i had the meeting with my client we discussed si
 
 ### New Site Users
 
-- As a new site user, I would like to find out the location, so that I can join the camp .
+- As a new site user, I would like to find out the location, so that I can join the camp.
 - As a new site user, I would like to find out the schedule, so that I can join the camp.
 - As a new site user, I would like to contact the camp administration, so that I can ask any questions I may have.
 - As a new site user, I would like to find the price of the sessions, so that I can pay the correct amount when I join.
