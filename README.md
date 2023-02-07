@@ -110,6 +110,13 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | Mobile | ![screenshot](documentation/readme/muay-thai-contact-mobile.png) |
 | Desktop | ![screenshot](documentation/readme/muay-thai-contact.png) |
 
+### Confirmation Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/readme/confirmation-mobile.png) |
+| Desktop | ![screenshot](documentation/readme/confirmation-desktop.png) |
+
 ## Features
 
 The website consists of the following pages:  
