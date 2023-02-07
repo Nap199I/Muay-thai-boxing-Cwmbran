@@ -100,24 +100,19 @@ I've tested my deployed project using the Lighthouse Audit tool for all of my pa
 
 ## User Story Testing
 
-Testing user stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **features** should already align with the **user stories**,
-so this should as simple as creating a table with the user story, matching with the re-used screenshot
-from the respective feature.
-
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to find out the location, so that I can join the camp. | ![screenshot](documentation/testing/schedule-location.png) |
+| As a new site user, I would like to find out the schedule, so that I can join the camp. | ![screenshot](documentation/testing/chrome-compatability-schedule-two.png) |
+| As a new site user, I would like to contact the camp administration, so that I can ask any questions I may have. | ![screenshot](documentation/readme/contact-form.png) |
+| As a new site user, I would like to find the price of the sessions, so that I can pay the correct amount when I join. | ![screenshot](documentation/testing/price.png) |
+| As a new site user, I would like to find information on the sessions, so that I can pick which ones to attend. | ![screenshot](documentation/testing/session-information.png) |
+| As a returning site user, I would like to find the schedule, so that I can make sure there has been no changes. | ![screenshot](documentation/testing/chrome-compatability-schedule-two.png) |
+| As a returning site user, I would like to look at the gallery, so that I can show people my friends and what I am a part of. | ![screenshot](documentation/readme/gallery-scrn-sht-one.png) |
+| As a returning site user, I would like to use the contact section, so that I can inform the instructor that I wont be able to make a session. | ![screenshot](documentation/readme/contact-form.png) |
+| As a site administrator, I should be able to have our information displayed, so that I can update new and existing members on times, locations and prices. | ![screenshot](documentation/testing/chrome-compatability-schedule-two.png) |
+| As a site administrator, I should be able to have images on the site, so that I can so potential new recruits can see what we do or so existing members can show friends. | ![screenshot](documentation/readme/gallery-scrn-sht-one.png) |
+| As a site administrator, I should be able to recieve and answer queries by email, so that I can assist anyone looking to join or any existing members issues. | ![screenshot](documentation/readme/contact-form.png) |
 
 ## Bugs
 
