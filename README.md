@@ -117,7 +117,8 @@ The website consists of the following pages:
 * Schedule page
 * Facilities page
 * Gallery page
-* contact page  
+* contact page 
+* confirmation page 
 
 There will be a breakdown of each pages features in order below
 
@@ -233,7 +234,21 @@ The message required showing:
 
 The submit hover button:  
 
-![screenshot](documentation/readme/contact-form-submit-hover.png)
+![screenshot](documentation/readme/contact-form-submit-hover.png)  
+
+- **Feature #11 confirmation**
+
+    - The confirmation of submission page is a nice feature for a good user experience, letting the user know that the submission has been successful, how long is needed before they get a response and helping them get back to the main site automatically or through a link.
+
+![screenshot](documentation/readme/confirmation-page.png)  
+
+- **Feature #12 confirmation automatic redirect**
+
+    - The automatic redirect is a good feature for user experience again due to the message being displayed and the user not having to do anything to get back to the main site.
+
+![screenshot](documentation/readme/automatic-function.png)
+
+
 
 ### Future Features
 
@@ -262,6 +277,9 @@ For future features we do have a couple if ideas that we will list below, these 
 
 - feature #7 an admin login where the instructor or chosen admins are able to upload things and change information like the schedule
     - This page could be about any videos made pertaining to the camp or lessons that had been recorded for anyone that missed the session, this was not implemented due to my lack of skill and knowledge in this area.  
+
+- feature #8 have the number 10 count down to 0
+    - This would be extra for good user experience, I have not implemented it due to me not knowing JavaScript.  
 
 ## Tools & Technologies Used
 
