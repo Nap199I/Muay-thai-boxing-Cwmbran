@@ -32,11 +32,7 @@ It makes it easier to return back to a page to validate it again in the future.
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate my CSS files.
 
-Being as I only have a single CSS file I used the deployed URL to validate the CSS the link is below.
-
-- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FNap199I.github.io%2FMuay-thai-boxing-Cwmbran
-
-Sample CSS code validation documentation (tables are extremely helpful!):
+CSS code validation documentation:
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
