@@ -77,30 +77,26 @@ I've tested my deployed project on devices and DevTools screen sizes to check fo
 
 ## Lighthouse Audit
 
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
+Here i will discuss testing the live/deployed site's Lighthouse Audit reports.
 
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
+Lighthouse testing documentation:
 
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
-
-I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+I've tested my deployed project using the Lighthouse Audit tool for all of my pages to check for any major issues.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse-home-mobile.png) | Some minor warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
-| About | Mobile | ![screenshot](documentation/lighthouse-about-mobile.png) | Some minor warnings |
-| About | Desktop | ![screenshot](documentation/lighthouse-about-desktop.png) | Few warnings |
-| Gallery | Mobile | ![screenshot](documentation/lighthouse-gallery-mobile.png) | Slow response time due to large images |
-| Gallery | Desktop | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
+| Home | Mobile | ![screenshot](documentation/testing/lighthouse-home-mobile.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| Home | Desktop | ![screenshot](documentation/testing/lighthouse-home-desktop.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| schedule | Mobile | ![screenshot](documentation/testing/lighthouse-schedule-mobile.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| schedule | Desktop | ![screenshot](documentation/testing/lighthouse-schedule-desktop.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| Gallery | Mobile | ![screenshot](documentation/testing/lighthouse-gallery-mobile.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| Gallery | Desktop | ![screenshot](documentation/testing/lighthouse-gallery-desktop.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| facilities | Mobile | ![screenshot](documentation/testing/lighthouse-facilities-mobile.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| facilities | Desktop | ![screenshot](documentation/testing/lighthouse-facilities-desktop.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| contact | Mobile | ![screenshot](documentation/testing/lighthouse-contact-mobile.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| contact | Desktop | ![screenshot](documentation/testing/lighthouse-contact-desktop.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| confirmation | Mobile | ![screenshot](documentation/testing/lighthouse-confirmation-mobile.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
+| confirmation | Desktop | ![screenshot](documentation/testing/lighthouse-confirmation-desktop.png) | Few warnings that have been discussed with my mentor (Tim Nelson), I was told that I cannot do anything about them as it is not from my code. |
 
 ## User Story Testing
 
