@@ -305,7 +305,7 @@ In this section, I have listed all tools and technologies used to develop the si
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](testing.md) file.
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
