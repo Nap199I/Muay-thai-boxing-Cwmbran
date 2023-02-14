@@ -15,8 +15,8 @@ The intended audience for this project are as follows:
 This site benefits this demographic as it gives you all the information you need to join, updates on the schedule and an overview of the facilities available on-site.
 
 ![screenshot](documentation/readme/am-i-responsive-muay-thai-2.png)  
-Here's the am i responsive site for my project:
-https://ui.dev/amiresponsive?url=https://nap199i.github.io/Muay-thai-boxing-Cwmbran
+Here is the link to my [live site](https://nap199i.github.io/Muay-thai-boxing-Cwmbran/).  
+Here's the [am i responsive](https://ui.dev/amiresponsive?url=https://nap199i.github.io/Muay-thai-boxing-Cwmbran) site for my project.
 
 ## UX
 
