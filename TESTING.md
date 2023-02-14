@@ -118,18 +118,6 @@ I've tested my deployed project using the Lighthouse Audit tool for all of my pa
 
 I have not come across any bugs in development.
 
-### GitHub **Issues**
-
-I have not had any issues within GitHub.
-
-**Fixed Bugs**
-
-None as I have not come across any in my testing or development.
-
-**Open Issues**
-
-There are no open issues as i have not had any to open or close.
-
 ## Unfixed Bugs
 
 There are no remaining bugs that I am aware of as I did not find any in the first place.
