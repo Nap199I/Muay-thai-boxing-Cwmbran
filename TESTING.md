@@ -116,8 +116,17 @@ I've tested my deployed project using the Lighthouse Audit tool for all of my pa
 
 ## Bugs
 
-I have not come across any bugs in development.
+The first bug was a fav icon error that was showing as I had not set a fav icon for my pages:  
+I fixed this bug by adding the code `<link rel="shortcut icon" href="assets/images/phraya-pichai-logo.jpg" type="image/x-icon">` to the head element of each page which gave my page's a fav icon and fixed the error.  
+  
+The second bug was on the mobile menu, when the toggler was clicked the menu would show covering the toggler, this meant you had to pick an option as the toggler was not available to be clicked a second time to collapse the menu:  
+I fixed this by moving the menu down using the top attribute in css targeting the mobile menu making the mobile toggler buttom visible again.  
+
+The third bug I came across was some contrasting issues that was picked up by the Dev Tools, initially these issues were again in the mobile menu and the copyright text at the bottom of the footer:  
+I fixed these issues simply by changing the colour of the text and removing the muted class in the footer copyright text.  
+
+finally there was some responsiveness issues with the gallery so to combat this i used the grid layout to move the elements around the page at different breakpoints to give it a more professional look and fit the page better on the different device sizes.
 
 ## Unfixed Bugs
 
-There are no remaining bugs that I am aware of as I did not find any in the first place.
+There are no remaining bugs that I am aware of.
