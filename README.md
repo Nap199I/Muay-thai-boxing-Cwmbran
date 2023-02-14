@@ -351,7 +351,7 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
+There are no known differences between the local and deployed version.
 
 ## Credits
 
